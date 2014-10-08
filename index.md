@@ -1,5 +1,5 @@
 ---
-title: Statistics, R, Graphics and Fun
+title: Computer Science
 layout: page
 ---
 
