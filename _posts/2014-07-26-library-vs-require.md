@@ -5,6 +5,7 @@ categories: [R language]
 tags: [require, library]
 ---
 
+Try to push the gh-pages branchse
 While I was sitting in a conference room at UseR! 2014, I started counting the number of times that `require()` was used in the presentations, and would rant about it after I counted to ten. With drums rolling, David won this little award (sorry, I did not really mean this to you).
 
 <blockquote class="twitter-tweet" lang="en"><p>Ladies and gentlemen, I&#39;ve said this before: require() is the wrong way to load an R package; use library() instead <a href="https://twitter.com/hashtag/useR2014?src=hash">#useR2014</a></p>&mdash; Yihui Xie (@xieyihui) <a href="https://twitter.com/xieyihui/statuses/484476578416455680">July 2, 2014</a></blockquote>
