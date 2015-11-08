@@ -1,110 +1,81 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Technical Project List
 ---
 
 # Xin Meng
 
-## Contact
+## Curriculum Design of Core Undergraduate Courses
 
-Address: A309, College Building, City University | London EC1V 0HB
+Sept 2006 - Sept 2010 _Learner_
 
-Email: `Xin.Meng.1@city.ac.uk`
+During 4 years studying of undergraduate, I have learned nearly all the core courses about the computer sciences. Except the basic knowledge, I also in-depth study expanded knowledge and used it for the curriculum design. I just list some of the most importance computer-science-related courses as follows:
 
-## Education
+- __Class Information Management System(for Data structure course)__: I used C++ to realize
+the system which includes nearly all the important data structure for programming. In addition, I learned visual programming based the __MFC__ using __Visual Studio 6.0__ by myself and applied it to the implementation of the system.
+- __Visual comparison for Sorting Algorithms(for algorithms course)__: Excepting realize nearly all
+sorting algorithm in __C++__, I also use the __TeeChart__(which is a Charting Library can be integrated in MFC) to present the spatial-temporal complexity intuitively.
+- __Library Management System (for software engineering course)__: I designed the system based on the object-oriented software design including user case diagram, class diagram and so on. I used the __Rational Rose__ which is an object-oriented Unified Modeling Language (__UML__) software design tool to design the project.
 
-### PhD researcher at City University, London
+## Research of UCON Based FTP Access Monitoring System
 
-Sept 2012 - Current 
+May 2010 - Sept 2010, Leader
 
-_Mobile Security Research_
+This is the Final Year Project of undergraduate. The research is deep analyses the application technology on UCON access control model, and present the __UCON-based__ access control model for FTP. And it uses the set of predicates and finite automatic machine to describe the UCON model formally. And through the __network packet capture technology__, and communication blocking technology, it designs the UCON based FTP access monitoring system, then it uses __Libnids__ development kit and __filter-hook__ packet filter driver model to implement the excess to download real-time network packet block.
 
-Research on the mobile Botnet detection on Android platform. Became familiar with JAVA and Android development technique. Provided analysis of the traffic network pass through the mobile device by using machine learning classification. A mobile Botnet detection framework (MBotCS) is developed on the Android platform.
+## TMMS (Trend Micro Mobile Security) Mobile Application
 
-### Master of Science in Computer Application Technology
+May 2009 - May 2010, _QA intern_
 
-Sept 2010 - July 2012 
+The TMMS is one of famous mobile anti-malware application. What I have done for the project is software testing for the TMMS on Windows Mobile and Symbian Operation System. Through the project, I became familiar with the __Software Testing engineering__ and I also learned to use the tracking system for software development projects such as __Trac__ and the virtual machine tools such as __VMWare Workstation__.
 
-_Major: Cloud Computing_, University of Aeronautics and Astronautics, Nanjing
+## The Simulation Software for Collaborative Against
 
-Thesis: “Virtual Resource Management in Cloud” | Advisor: Prof. Yi Zhuang
+June 2010 - Oct 2010, _Participant_
 
-Mark: 87.98/100
+I was responsible for a small part of the project which is the visualization of the performance of the units. I became familiar with the drawing with __MFC__ and implementation a display which is similar with the Performance of Task Manager on Windows.
 
-### Undergraduate Degree in Computer Science and Technology
+## Competition:Second Google Android Competition in China
 
-Sept 2006 - July 2010 
+Jan 2011 - May 2011, _Leader_
 
-_highest honor_, University of Aeronautics and Astronautics, Nanjing
+I Organized a team to attend this competition, and we developed a Special Alarm on Android platform. The innovation of the application is introducing the social network thinking. We defined a universal format (__XML__) of the alarm and the user can share their alarms with their friend such as "Fitness Plan" and "When you need to brush your teeth". I was responsible for __the design of the application__ and implementation the XML file store and parse on __Android development__. I was even in charge of the __UI design__ with my skilled __Photoshop__ knowledge. The project got the “Excellence awards in Google Android Competition in East China”
 
-Thesis: “UCON Based FTP Access Monitoring System” | Advisor: Yi Zhuang
+## Competition: “Huawei Cup” Computer programming contest
 
-Gpa: 4.0/5
+June 2011 - August 2011, __Leader__
 
-## Work Experience
+I chose the project of __URL Matching Algorithm__ Research and Implementation. I developed a software which can match the specific URLs in the database base on given rules including some wildcard character. During the project, I used 3 core algorithms to satisfy the requirement of time&space complexity which include __KMP string searching algorithm, Deterministic finite automaton(DFA) and Rule-base classification__. At last I implemented the system based on __C#__ using __Visual Studio 2005__. The project got the third prize of the competition.
 
-### Teaching Assistant at City University , London
+## Carrier-based Cluster System
 
-May 2014 - Current, _Education_
+June 2011 - August 2012, __Leader__
 
-Provided teaching assistant for the undergraduate course including Mathematics for Computing, Computation and Reasoning and Object-Oriented Analysis and Design. Meanwhile, I got involved in the Second Maker for Individual Project. Gained experience of communication and logical thinking.
+The system is used for improving the robustness and effectiveness of computing task on the ship. I was responsible for the design of the system and the implementation of the virtual storage management component. The project is based on the embedded system(__VxWorks__). So we depended on embedded __C programming__ to implement the system by using __Wind River Workbench__.
 
-### Co-founder & Chief Technology Officer at IDAOYOO.COM , London
+## The Distributed and Parallel Computing for Large Scale Matrix
 
-May 2013 - May 2015, _Research & Development_
+Feb 2011 - May 2011, __Participant__
 
-Provided technical support, in particular the software development for the company including the website(www.idaoyoo.com) and the applications on iOS&Android platform. Became familiar with the web technology of PHP, HTML and CSS and mastered the mobile project design. Gained proficiency in the website hosed and maintenance technology.
+I performed some experiments which is based on the previous research. These experiments were computation of large matrix by using parallel programming. I became familiar with the __MPI__(Message Passing Interface) and the __LAPACK__ which is linear algebra library.
 
-### QA Intern at Trend Micro Developing Centre, Nanjing
+## IDAOYOO Website
 
-May 2009 - May 2010 _Mobile Security Application Quality Assurance_
+May 2013 - Nov 2014, __Leader__
 
-Received offer from software development competition as a result of the very positive review. Rated “truly distinctive” for software testing skills and teamwork. Mastered the systematic software testing and the virtual machine technique for mobile application.
+I was the co-founder of the IDAOYOO.COM website and was responsible for all the technical problems. The IDAOYOO.COM website is a social network which can connect the Chinese tour guides and tourists. The website is based on the __PHP__ and __MySQL__. I implemented the system based on open source project named __Thinksns__ and developed some application on the platform. I was familiar with the PHP, MySQL and mastered the website deployment techniques.
 
-## Key Transferable Skills
+## IDAOYOO Mobile Application
 
-### Problem Solving:
+Dec 2014 - June 2015, __Leader__
 
-To achieve the target of my Ph.D. project, I had to solve a series of problems including how to distinct the malware and normal applications and which features could be used for detection. According to a lot of experiments, I found that it is feasible to detect the malware by analysing some specific features of traffic.
+In order to let the users access the social network easily, the project of mobile applications is performed. I was responsible for the __requirement analysis __and __top-level design__ for the application. Meanwhile, I participated in solving the important technique problem especially for the Android application.
 
-### Learning Capability:
+## Mobile Botnet Detection System Research and Implementation
 
-During the period of Ph.D., I learnt a lot of knowledge by myself for the research. Such as learning Linux shell script to monitor system calls on the Android platform and learning VBA script to analyse huge data automatically. I am good at studying and taking advantage of the new technology and existing toolkit. Such as to implement analysis of PCAP file, I made use of JNetPcap, which is a powerful open-source Java library for network analysis. I also learnt
-the L ATEX to write my publication and thesis.
+Sept 2012 - Current, __Leader__
 
-### Data Analysis:
+The main project for my PhD research. In order to realize the system to detect the mobile Botnet on Android platform, there are a lot of work during my research. Firstly, I in-depth studied the __knowledge of network__ and I was familiar with the traffic monitor toolkit __WireShark__. In addition, I made some research for the “PCAP” format traffic file and used __JNetPcap__ to implement the __PCAP__ file parser by using __JAVA__. Secondly, I studied the __Machine learning__ Classifications and became familiar with the open source machine learning toolkit __WEKA__. I used the toolkit to classify the traffic based on selected features. At last, I enhanced my __Android development__ skills to implement the detection system on the Android platform which had been published on conference named "CRISIS2015". In current, I am working on the experiments by analyzing the traffic and system call on the mobile system. I had implement some __Linux Shell Script__ (which can be run on the Linux kernel of Android operation system) to capture the system call for the specific process.
 
-Machine Learning and statistic analysis play an important role in my research. These techniques are essential for data analysis. Such as I used the machine learning classification to analyse the traffic data on the mobile device to find the distinction between normal and abnormal. I also performed T-Test and ANOVA to analyse the differences
-among different groups data.
-
-## Computer Skills
-
-1. __Basic Knowledge__: python, Matlab
-2. __Intermediate Knowledge__: Html, C, C++, CSS, Linux, MS Office, Adobe Photoshop, Git, L ATEX, mysql
-3. __Advance Knowledge__: JAVA, VBA, PHP, Machine Learning
-
-## Scholarships and Certificates
-
-1. Sep. 2012 Full Scholarship for PhD students from City University (£50,400 )
-1. Oct. 2011 Excellence awards in Google Android Competition in East China
-1. Jul. 2009 Awarded China National Motivational Scholarships(¥6,000 )
-1. Jul. 2008 Awarded China National Scholarship (¥8,000 )
-1. Nov. 2012 IELTS®: 6.5 (Listening:7.5;Reading:7.0;Writing:5.5;Speaking:6.0)
-
-## Publication
-
-July 2015 MBotCS: A mobile Botnet detection system based on machine learning 10th International Conference on Risks and Security of Internet and Systems
-
-## Languages
-
-1. Chinese: Mothertongue
-2. English: Fluent
-3. French: Basic Knowledge
-
-## Interests and Activities
-
-Novel Technology, Open-Source, Programming
-
-Reading, Magic Cube
-
-Cycling, Football, Travelling
+## Overview of the time-line
+[Overview of the time-line]!(https://dl.dropboxusercontent.com/u/109249235/emx2.co.uk/technical-project-list.png)
